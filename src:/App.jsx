@@ -1,5 +1,8 @@
-import React from "react";
-
 export default function App() {
-  return <h1>Привет, АНО Дети Льда!</h1>;
+  return (
+    <div style={{ textAlign: "center", padding: "2rem" }}>
+      <h1>АНО Дети Льда</h1>
+      <p>Сайт в разработке</p>
+    </div>
+  );
 }
